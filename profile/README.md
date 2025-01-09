@@ -8,4 +8,4 @@ Its main user is Home Assistant's [ZHA integration](https://www.home-assistant.i
 
 ---
 
-This is a project of the [Open Home Foundation](https://www.openhomefoundation.org/).
+[![Zigpy - A library from the Open Home Foundation](https://www.openhomefoundation.org/badges/zigpy.png)](https://www.openhomefoundation.org/)
